@@ -2,7 +2,7 @@
 
 * [Introduction](#Introduction)
   * [I don't want to read this whole thing I just have a question!!!](#user-content-i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-* [How Can I Contribute?](How Can I Contribute?)
+* [How Can I Contribute?](#How Can I Contribute?)
 
 ## Introduction
 
