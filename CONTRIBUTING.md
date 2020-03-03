@@ -1,5 +1,9 @@
 # Contribution Guide
 
+* [Introduction](#Introduction)
+  * [I don't want to read this whole thing I just have a question!!!](#I don't want to read this whole thing I just have a question!!!)
+* [How Can I Contribute?](How Can I Contribute?)
+
 ## Introduction
 
 First off, thank you for considering contributing to this project. It's people like you that make it such a great tool.
