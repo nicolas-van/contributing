@@ -1,4 +1,4 @@
-# Contribution Guide
+# Contributing to this project
 
 * [Contributors Agreement](#user-content-contributors-agreement)
 * [Introduction](#Introduction)
