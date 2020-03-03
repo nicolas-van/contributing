@@ -5,6 +5,7 @@
 * [How Can I Contribute?](#user-content-how-can-i-contribute)
   * [Reporting Bugs](#user-content-reporting-bugs)
   * [Suggesting Enhancements](#user-content-suggesting-enhancements)
+  * [Creating Pull Requests](#user-content-creating-pull-requests)
 
 ## Introduction
 
