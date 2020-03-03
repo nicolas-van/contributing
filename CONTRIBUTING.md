@@ -77,6 +77,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 #### How Do I Submit A (Good) Pull Request?
 
+* **Be warned that the contributors agreement displayed on top of this document is applicable as soon as you create a pull request**.
 * **Use a clear and descriptive title** for the pull request to state the improvement you made to the code or the bug you solved.
 * **Provide a link to the related issue** if the pull request is a follow up of an existing bug report or enhancement suggestion.
 * **Comment why this pull request represents an enhancement** and give a rationale explaining why you did it that way and not another way.
