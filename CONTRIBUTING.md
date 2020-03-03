@@ -1,5 +1,6 @@
 # Contribution Guide
 
+* [Contributors Agreement](#user-content-contributors-agreement)
 * [Introduction](#Introduction)
   * [I don't want to read this whole thing I just have a question!!!](#user-content-i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
 * [How Can I Contribute?](#user-content-how-can-i-contribute)
@@ -7,7 +8,7 @@
   * [Suggesting Enhancements](#user-content-suggesting-enhancements)
   * [Creating Pull Requests](#user-content-creating-pull-requests)
   
-## Contributors agreement
+## Contributors Agreement
 
 By submitting patches to this project you agree to allow them to be redistributed under the project's license, according to the normal forms and usages of the open-source community.
 
